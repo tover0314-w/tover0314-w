@@ -15,7 +15,7 @@
   <a href="mailto:yongyiwu0314@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-contact-111111?style=flat-square&labelColor=6b7280"></a>
 </p>
 
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="33%">
       <sub>ROLE</sub><br>
