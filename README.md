@@ -102,9 +102,9 @@ I'm a 00s solo builder focused on turning AI workflows into useful products. My 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tover0314-w/tover0314-w/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tover0314-w/tover0314-w/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/tover0314-w/tover0314-w/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution animation" src="./assets/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
