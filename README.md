@@ -15,22 +15,9 @@
   <a href="mailto:yongyiwu0314@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-contact-111111?style=flat-square&labelColor=6b7280"></a>
 </p>
 
-<table width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <sub>ROLE</sub><br>
-      <strong>AI Builder</strong>
-    </td>
-    <td align="center" width="33%">
-      <sub>MODE</sub><br>
-      <strong>One-person company</strong>
-    </td>
-    <td align="center" width="33%">
-      <sub>FOCUS</sub><br>
-      <strong>Voice · Slides · Music</strong>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <samp>ROLE: AI Builder / MODE: One-person company / FOCUS: Voice · Slides · Music</samp>
+</p>
 
 ---
 
